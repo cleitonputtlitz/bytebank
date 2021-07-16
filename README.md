@@ -2,8 +2,7 @@
 
 
 
-Desenvolvido a partir do curso de 
-Fundamentos de Flutter: Crie o seu primeiro App da alura
+Desenvolvido a partir do curso de "Fundamentos de Flutter: Crie o seu primeiro App" da alura
 
 Principais tópicos:
 - Primeiros passos com o Flutter
